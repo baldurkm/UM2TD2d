@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+
+
+
+
+@media (max-width: 480px) {
+  #gameCanvas {
+    width: 100%;
+    height: auto;
+    max-width: 780px
+  }
+}
